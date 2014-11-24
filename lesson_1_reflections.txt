@@ -12,9 +12,10 @@ Why do you think some version control systems, like Git, allow saving multiple f
 Changes haapen cross files, all are related to one logical change.
 
 How can you use the commands git log and git diff to view the history of files?
-
+To check commits we made, use git log. To check what difference each commit has, use git diff.
 
 How might using version control make you more confident to make changes that could break something?
-
+We do not have to be worried about our coding working, while trying creatively coding.
 
 Now that you have your workspace set up, what do you want to try using Git for?
+Let's start our own project with different versions!
