@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+We can access the repository with many computers. It is safer to store projects online in case some accidents happen on our local computers.
